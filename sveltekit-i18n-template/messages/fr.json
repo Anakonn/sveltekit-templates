@@ -1,0 +1,6 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"hello_world": "Bonjour le monde!",
+	"greetings": "Salutations {name} .",
+	"about": "À propos"
+}
