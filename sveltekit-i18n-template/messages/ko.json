@@ -2,5 +2,5 @@
     "$schema": "https://inlang.com/schema/inlang-message-format",
     "hello_world": "안녕하세요!",
     "greetings": "안녕하세요 {name} .",
-    "about": "에 대한"
+    "about": "어바웃"
 }
